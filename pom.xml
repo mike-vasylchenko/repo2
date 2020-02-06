@@ -120,8 +120,8 @@
             <version>1.7.9</version>
         </dependency>
          <dependency>
-            <groupId>org.javalite</groupId>
-            <artifactId>simple-example</artifactId>
+            <groupId>org.MikeVasylchenko</groupId>
+            <artifactId>repo1</artifactId>
             <version>1.7.9</version>
         </dependency>   
     </dependencies>
